@@ -1,5 +1,18 @@
+# Project files
 .idea
+*.iml
+
+# Folders
 accounts
 target
+build-win
 
+# Packr
+packr.jar
+*.exe
+
+# User.json
 user.json
+
+# Environment variables
+.env
